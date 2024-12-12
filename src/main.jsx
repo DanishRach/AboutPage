@@ -28,8 +28,8 @@ function Navbar() {
       >
         <li style={{ margin: "0 1rem" }}>
           <a
-            href="https://webiste-gamers.vercel.app/"
-            target="_blank"
+            href="https://danish-rach-porto.vercel.app/"
+            target=""
             rel="noopener noreferrer"
             style={{ color: "#000", textDecoration: "none" }}
           >
@@ -38,8 +38,8 @@ function Navbar() {
         </li>
         <li style={{ margin: "0 1rem" }}>
           <a
-            href="https://github.com/DanishRach/about"
-            target="_blank"
+            href="https://3d-project-page.vercel.app/"
+            target=""
             rel="noopener noreferrer"
             style={{ color: "#000", textDecoration: "none" }}
           >
@@ -48,8 +48,8 @@ function Navbar() {
         </li>
         <li style={{ margin: "0 1rem" }}>
           <a
-            href="https://webiste-gamers.vercel.app/"
-            target="_blank"
+            href="https://game-3d-danish.vercel.app/"
+            target=""
             rel="noopener noreferrer"
             style={{ color: "#000", textDecoration: "none" }}
           >
